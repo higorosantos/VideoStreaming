@@ -1,0 +1,22 @@
+{
+  "name": "videostreaming",
+  "version": "1.0.0",
+  "description": "Site para streaming de filmes e series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higorosantos/VideoStreaming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higorosantos/VideoStreaming/issues"
+  },
+  "homepage": "https://github.com/higorosantos/VideoStreaming#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
